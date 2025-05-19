@@ -1,4 +1,4 @@
-/*1. ArrayList Programs
+/*1b. ArrayList Programs
   2.Write a java program for getting different colors through ArrayList interface and remove the
 2nd element and color "Blue" from the ArrayList*/
 package Program_1;
