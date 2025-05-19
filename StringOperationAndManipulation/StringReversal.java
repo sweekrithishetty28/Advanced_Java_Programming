@@ -1,3 +1,7 @@
+/* 3b. String Exercise progams
+
+Q3. Write a Java Program for Reversing the characters in a string using user defined function reverseString().*/
+
 package program_3;
 import java.util.*;
 public class StringReversal {
