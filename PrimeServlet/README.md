@@ -1,0 +1,1 @@
+PrimeServlet o/p link - https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/fccd2c73846ad193f0b617e194f9e73b4a2182e7/PrimeServlet/Output/Pro6_c.png
