@@ -1,3 +1,5 @@
+/*1c. Linked List Operations
+5.Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))*/
 package Program_1;
 import java.util.LinkedList;
 import java.util.Collections;
