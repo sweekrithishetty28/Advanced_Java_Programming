@@ -1,1 +1,3 @@
-FactorialServlet o/p link -https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/022df8c0c9ea91fe559c33065195b0ff0ef51771/FactorialServlet/Output/Pro6_a.png
+OUTPUT:
+
+FactorialServlet o/p link -https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/3588ab27be5bee776f0be2eb9b630e541c96d598/FactorialServlet/Output/6a_1.png && https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/3588ab27be5bee776f0be2eb9b630e541c96d598/FactorialServlet/Output/6a_2.png && https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/3588ab27be5bee776f0be2eb9b630e541c96d598/FactorialServlet/Output/6a_3.png 

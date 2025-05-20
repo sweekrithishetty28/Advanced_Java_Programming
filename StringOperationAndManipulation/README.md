@@ -1,3 +1,5 @@
+OUTPUT:
+
 StringFunctionsDemo o/p link - https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/39a67940478495e85d14e1bc4114d425b7cd4487/StringOperationAndManipulation/Output/Pro3_a.jpeg
 
 StringNullOrEmpty o/p link - 

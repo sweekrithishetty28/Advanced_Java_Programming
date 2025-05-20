@@ -1,1 +1,3 @@
-PrimeServlet o/p link - https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/fccd2c73846ad193f0b617e194f9e73b4a2182e7/PrimeServlet/Output/Pro6_c.png
+OUTPUT:
+
+PrimeServlet o/p link - https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/3588ab27be5bee776f0be2eb9b630e541c96d598/PrimeServlet/Output/Pro6c_1.png && https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/3588ab27be5bee776f0be2eb9b630e541c96d598/PrimeServlet/Output/Pro6c_2.png && https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/3588ab27be5bee776f0be2eb9b630e541c96d598/PrimeServlet/Output/Pro6c_3.png && https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/3588ab27be5bee776f0be2eb9b630e541c96d598/PrimeServlet/Output/Pro6c_4.png
