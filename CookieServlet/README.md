@@ -1,1 +1,3 @@
-CookieServlet o/p link -https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/f4656bb3924570c8b73c0dc2157afcbde90d1671/CookieServlet/Output/Pro6_b.png
+OUTPUT:
+
+CookieServlet o/p link -https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/a22c383e61b44b94596d671f2b840d84f67692cf/CookieServlet/Output/6b_1.png && https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/a22c383e61b44b94596d671f2b840d84f67692cf/CookieServlet/Output/6b_2.png
