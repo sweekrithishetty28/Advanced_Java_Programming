@@ -8,26 +8,20 @@ public class ColorRemoveByIndexDemo {
 
 		    public static void main(String[] args) {
 		        // Create a List using ArrayList to store color names
-		        List<String> ls = new ArrayList<>();
+		       ArrayList<String> colors = new ArrayList<>();
+        colors.add("Red");
+        colors.add("Green");
+        colors.add("Blue");
+        colors.add("Yellow");
 
-		        // Add color names to the list
-		        ls.add("Orange");
-		        ls.add("green");
-		        ls.add("pink");
-		        ls.add("red");
-		        ls.add("Blue");
+        // Print original list
+        System.out.println("Colors before removing: " + colors);
 
-		        // Define the element to be removed (in this case, "green")
-		        String Str = "green";
+        // Remove 2nd element (index 1)
+        colors.remove(1);
 
-		        // Print the original list
-		        System.out.println(ls);
-
-		        // Remove the element "green" from the list using its value
-		        System.out.println("Removing the nth Element: " + ls.remove(Str));
-
-		        // Print the updated list after removal
-		        System.out.println(ls);
+        // Print updated list
+        System.out.println("Colors after removing 2nd element: " + colors);
 		    }
 	
 
