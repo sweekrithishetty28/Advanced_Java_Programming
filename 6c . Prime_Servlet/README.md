@@ -1,3 +1,3 @@
-OUTPUT:
+**OUTPUT:**
 
 PrimeServlet o/p link - https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/ff089c31c9fa0da6c537b1e37bc10d95f17c4e85/6c%20.%20Prime_Servlet/Output/Pro6c_1.png && https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/ff089c31c9fa0da6c537b1e37bc10d95f17c4e85/6c%20.%20Prime_Servlet/Output/Pro6c_2.png && https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/ff089c31c9fa0da6c537b1e37bc10d95f17c4e85/6c%20.%20Prime_Servlet/Output/Pro6c_3.png && https://github.com/sweekrithishetty28/Advanced_Java_Programming/blob/ff089c31c9fa0da6c537b1e37bc10d95f17c4e85/6c%20.%20Prime_Servlet/Output/Pro6c_4.png
