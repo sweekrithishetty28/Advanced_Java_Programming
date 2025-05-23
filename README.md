@@ -11,4 +11,4 @@ Topics include:
 
 Each program includes:
 - ✅ Java source code
-- 📷 Output (**Each program includes source code and corresponding output linked in this README.**)
+- 📷 Output (**linked in this README.**)
